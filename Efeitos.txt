@@ -1,0 +1,16 @@
+!!! Efeitos !!!
+
+Ataque Rápido :
+Ao invocar, ataca antes do bloqueador
+
+Elusivo
+Só pode ser bloqueado por unidade Elusivo
+
+Jogar
+Ativado ao jogar da mão pro campo
+
+Monumento
+Ocupam espaço no campo, não podem atacar ou bloquear
+
+Solapar
+Causa 2 de dano ao Nexus inimigo

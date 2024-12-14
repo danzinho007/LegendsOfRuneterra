@@ -1,0 +1,10 @@
+Deck inimigo :
+
+Ladrão Quimiopunk = 2/3/2
+Golpe no Nexus : Cria na mão uma cópia idêntica de um feitiço aleatório do deck inimigo
+
+Aeronauta Amador = 3/2/2
+Elusivo
+
+Chefe dos Metalcrânios = 3/4/2
+

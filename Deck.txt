@@ -1,0 +1,26 @@
+
+
+Nome = Custo / Ataque / Vida
+Efeito
+
+Caçadora de Tesouros = 1/2/1
+Ao invocar cria 1 Areias Despertas na mão
+
+Pedinte Zaunita = 1/2/1
+Jogar = Descarte uma carta para comprar 1 
+
+Aprendiz Dedicado = 2/2/1
+Ao invocar recarregue 2 de Mana de Feitiço
+
+Bombardeiro Novato = 2/1/3
+Atacar : Causa 2 de dano no Nexus inimigo
+
+Foguetollie = 2/3/3 Ataque Rápido
+
+Sacrário Interior = 3
+Reputação : Eu custo 3 a menos 0/4
+Contagem 1(1) - Crie 2
+Descobertas da Sorte na mão
+
+Sivir = 4/5/3
+Subir de nível = Causar 30 de dano
